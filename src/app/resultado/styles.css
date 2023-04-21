@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+}
+
+.team-container {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.team-container img {
+    width: 80px;
+    height: 80px;
+    border-radius: 0%;
+    margin-right: 20px;
+}
+
+.team-container h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.team-container p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.team-container .position {
+    font-weight: bold;
+    color: #007bff;
+}

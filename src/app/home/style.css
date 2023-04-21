@@ -1,0 +1,58 @@
+/* Reset de estilos */
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+
+  
+
+  h1 {
+    font-size: 48px;
+    color: #000000;
+    text-transform: uppercase;
+  }
+  
+
+  
+
+  
+  
+  body {
+    background-image: url("../../assets/liga1.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  h1 {
+    font-size: 4em;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em;
+  }
+  
+  .button {
+    background-color: #b53f3f;
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+    text-decoration: none;
+    font-size: 1.5em;
+
+  }
+  .title {
+    margin-top: 110vh; /* ajustar la altura según sea necesario */
+  }
